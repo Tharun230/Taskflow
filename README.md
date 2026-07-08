@@ -127,5 +127,4 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for step-by-step instructions to deploy the
 - Unit and integration tests (Jest + Supertest, React Testing Library)
 
 ## License
-
-MIT — see [LICENSE](./LICENSE)
+This project is developed for educational and learning purposes.
